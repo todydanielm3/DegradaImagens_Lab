@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de um README para o projeto:
-
 # Projeto de Geração de Degradações em Imagens
 
 Este projeto consiste em um script Python que gera diferentes degradações em uma imagem fornecida. As degradações incluem desfoque, brilho, contraste, redimensionamento e muito mais.
