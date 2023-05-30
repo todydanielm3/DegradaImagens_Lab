@@ -66,5 +66,3 @@ Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/M
 - [OpenCV](https://opencv.org/) pela biblioteca de processamento de imagens.
 - [Matplotlib](https://matplotlib.org/) pela biblioteca de visualização de gráficos.
 - [NumPy](https://numpy.org/) pela biblioteca de manipulação de arrays.
-
-Esse é apenas um exemplo de README e você pode personalizá-lo conforme necessário para atender às especificidades do seu projeto. Certifique-se de fornecer informações claras sobre os requisitos, instalação, uso e personalização do projeto.
